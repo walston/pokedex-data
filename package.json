@@ -1,0 +1,7 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Pokedex SQL database",
+  "main": "pokedex.sqlite",
+  "author": "Nathan Walston <nathanielwalston@gmail.com> (https://github.com/walston)", 
+}
